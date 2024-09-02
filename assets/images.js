@@ -1,5 +1,6 @@
+//@ts-nocheck
 const Images = {
-  icon: require("./icon.png"),
+  facebookMessanger: require("./facebook-messenger.png"),
 };
 
 export default Images;
